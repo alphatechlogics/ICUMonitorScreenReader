@@ -19,7 +19,7 @@ Welcome to the ICU Monitor Data Extraction app! This app utilizes OpenAI's Visio
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/icu-monitor-data-extraction.git
+git clone https://github.com/alphatechlogics/ICUMonitorScreenReader.git
 cd icu-monitor-data-extraction
 ```
 
