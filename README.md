@@ -2,6 +2,8 @@
 
 Welcome to the ICU Monitor Data Extraction app! This app utilizes OpenAI's Vision API to analyze ICU monitor images, extract vital signs like heart rate (HR), blood pressure (BP), oxygen saturation (SpO2), respiratory rate (RR), temperature, and more. The app displays these vital signs in a user-friendly table format. 🌟
 
+![](https://raw.github.com/alphatechlogics/ICUMonitorScreenReader/aa06d78473ff2f845d6a5bcafa5b3a2987b1c540/Screenshot%202025-06-17%20231241.png)
+
 ## 🧑‍💻 How It Works
 
 1. **Upload ICU Monitor Image**: Upload an image from a patient monitor.
